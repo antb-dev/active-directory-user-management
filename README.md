@@ -29,6 +29,7 @@ Open **Active Directory Users and Computers (ADUC):**
 - Press `Win + R`, type `dsa.msc`, and hit **Enter**.  
 - Or navigate via **Server Manager → Tools → Active Directory Users and Computers**.  
 
+![ADUC](https://github.com/user-attachments/assets/8e2d2b79-e781-41fa-a11a-a85747f74361)
 
 
 ---
