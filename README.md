@@ -40,6 +40,7 @@ Open **Active Directory Users and Computers (ADUC):**
 3. Fill in user details (First Name, Last Name, User Logon Name).  
 4. Set an initial password and configure whether the user must change it at next logon.  
 
+![NEWUSER](https://github.com/user-attachments/assets/0037de1d-e0e6-454f-a743-b731c034f321)
 
 
 ---
@@ -67,6 +68,7 @@ This is useful when employees leave temporarily (e.g., leave of absence).
 3. Add or remove groups to adjust permissions and access.  
 
  
+![member](https://github.com/user-attachments/assets/a47e2e6d-bcb5-4a44-9807-af1ab1897406)
 
 
 ---
