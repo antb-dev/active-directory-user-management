@@ -1,0 +1,4 @@
+- Always follow your company’s **account lifecycle policy**.  
+- Use **Group Policies (GPOs)** to enforce password complexity.  
+- Document account changes for compliance.  
+- Automate repetitive tasks with **PowerShell** (future repo idea).  
